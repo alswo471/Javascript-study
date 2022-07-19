@@ -76,7 +76,5 @@ console.log(a);  // -> ["A", "B", "C", "D"]
 * for/in , hasOwnProperty : 배열 요소가 있는지 확인
 
 
-
-
 ### ECMAScript6 부터는 TypedArray 객체가 추가되었습니다. TypedArray의 배열 요소는 C나 Java 등의 배열과 마찬가지로 메모리의 연속된 공간에 차례대로 배치됩니다. 이를 활용하면 배열 요소를 빠르게 읽고 쓸 수 있습니다.
 <a href = "https://developer.mozilla.org/ko/docs/Web/JavaScript/Reference/Global_Objects/TypedArray">참고자료</a>
